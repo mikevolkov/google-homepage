@@ -1,1 +1,3 @@
-First entry in the README.md file
+First Odin project - Google Homepage.
+
+For training purposes only.
