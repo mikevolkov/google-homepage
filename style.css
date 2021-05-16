@@ -35,20 +35,18 @@ a {
     height: 50px;
     width: 100%;
     border: 1px solid #d8d8d8;
-    padding: 0 0 0 15px;"
+    padding: 0 0 0 15px;
 }
 .button-area {
     margin: 20px auto;
     width: 100%;
-    display: inline-block;"
+    display: inline-block;
 }
 .single-button.left {
     display: inline-block;
     width: 49%;
-    float: left;
 }
 .single-button.right {
-    display: inline-block;
     width: 49%;
     float:right;
 }
